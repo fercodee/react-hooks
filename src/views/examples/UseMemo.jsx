@@ -39,7 +39,7 @@ const UseMemo = (props) => {
 export default UseMemo
 
 /**
- * No exemplo acima, o await só será necessário no casdo de alteração nas dependências n1 e n2
+ * No exemplo acima, o await só será necessário no casd de alteração nas dependências n1 e n2
  * Não é necessário que o n3 seja afetado pela lógica da função sum
  * O valor do useMemo ficará salvo em cache
  */
